@@ -1,0 +1,5 @@
+pyinstaller --onefile programa.py
+-----------------------------
+pip install cx_Freeze
+python setup.py build
+ 
